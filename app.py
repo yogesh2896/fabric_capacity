@@ -206,7 +206,7 @@ st.markdown(
         width: 100%;
     }
     .header-left img {
-        width: 80px;
+        width: 120px;
         margin-right: auto;
     }
     .header-center {
